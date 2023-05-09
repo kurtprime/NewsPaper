@@ -11,3 +11,5 @@
   of a news item.
   
   -The layoud is responsive and Adoptive
+
+Link: https://kurtprime.github.io/NewsPaper/
